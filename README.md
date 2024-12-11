@@ -9,3 +9,6 @@ This is my attempt to keep all of the config I use cli tools and development in 
   - https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Cousine.zip
 - My neovim config
   - https://github.com/MassoniMacaroni/my.nvim/tree/master
+- OhMyZsh
+- p10k
+  - brew install powerlevel10k
