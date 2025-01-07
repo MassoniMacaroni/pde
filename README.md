@@ -14,5 +14,8 @@ This is my attempt to keep all of the config I use cli tools and development in 
   - brew install powerlevel10k
 - tmux
   - brew install tmux
+  - Install Tmux Plugin manager
+    - git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+    - tmux source ~/.tmux.conf
   - Install Tmux plugins
-    - (inside tmux) C-S I 
+    - Press prefix + I (capital i, as in Install) to fetch the plugin.
