@@ -12,3 +12,7 @@ This is my attempt to keep all of the config I use cli tools and development in 
 - OhMyZsh
 - p10k
   - brew install powerlevel10k
+- tmux
+  - brew install tmux
+  - Install Tmux plugins
+    - (inside tmux) C-S I 
