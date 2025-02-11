@@ -19,3 +19,7 @@ This is my attempt to keep all of the config I use cli tools and development in 
     - tmux source ~/.tmux.conf
   - Install Tmux plugins
     - Press prefix + I (capital i, as in Install) to fetch the plugin.
+- yabai
+  - brew install koekeishiya/formulae/yabai
+- skhd
+  - brew install koekeishiya/formulae/skhd
