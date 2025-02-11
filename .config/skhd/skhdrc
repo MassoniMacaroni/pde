@@ -8,6 +8,8 @@ alt - l : yabai -m window --focus east
 
 #change focus between external displays (left and right)
 alt - s: yabai -m display --focus west
+alt - f: yabai -m display --focus north
+alt - d: yabai -m display --focus south
 alt - g: yabai -m display --focus east
 
 # -- Modifying the Layout --
@@ -68,6 +70,7 @@ shift + alt - 7 : yabai -m window --space 7;
 # -- Starting/Stopping/Restarting Yabai --
 
 # stop/start/restart yabai
-ctrl + alt - q : brew services stop yabai
-ctrl + alt - s : brew services start yabai
-ctrl + alt - r : brew services restart yabai
+ctrl + alt - q : yabai --stop-service
+ctrl + alt - s : yabai --start-service
+ctrl + alt - r : yabai --restart-service
+
